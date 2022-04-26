@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ant:ant-jsch:1.6.5" type="repository">
+    <properties maven-id="ant:ant-jsch:1.6.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ant/ant-jsch/1.6.5/ant-jsch-1.6.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
